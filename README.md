@@ -1,4 +1,7 @@
 # SOC-Analyst-Writeups
+
+## 🚧 Actively updated | Focused on building SOC Analyst skills
+
 My SOC Analyst path: labs, tools, notes, detections and incident investigations.
 
 I focus on building practical skills in:
@@ -39,8 +42,8 @@ Supporting images used in writeups.
 
 My task is not to just complete labs — I aiming on analyzing them from a defender's perspective:
 - What happened?  
-- How would this look in logs?  
-- How can it be detected or prevented?  
+- How would this appear in logs?  
+- How could it be detected or prevented?  
 
 ---
 
@@ -52,7 +55,7 @@ Some content is based on platforms like TryHackMe, but all writeups are written 
 
 ##  Goal
 
-To gain the skills required for an professional specialist in SOC Analyst role and build a strong, practical cybersecurity foundation.
+To become a SOC Analyst with strong practical skills in detection, log analysis, and incident response, and to build a solid foundation in real-world cybersecurity operations.
 
 ---
 
@@ -67,6 +70,7 @@ https://tryhackme.com/p/invictuss
 
 ---
 
-##  Note
+##  Important Note
 
-This repository reflects my learning journey and will continuously evolve as I gain more experience.
+This repository reflects my learning journey and will continue to evolve as I gain more experience.  
+It combines notes, tools, and practical observations, with a focus on building a strong cybersecurity mindset and understanding how attacks can be detected in real-world environments.  
