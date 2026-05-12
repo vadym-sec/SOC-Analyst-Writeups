@@ -241,6 +241,4 @@ It is important to understand that some forensic tools and techniques can also b
 
 From an analyst’s perspective, metadata can provide valuable context during an investigation. Information such as timestamps, device details, software used, GPS coordinates, or file properties may help reconstruct events and identify suspicious activity.
 
-This task also showed how small details left inside files can become useful evidence during forensic analysis. Understanding how to examine metadata helps analysts build timelines, verify activity, and gather additional context during investigations.
-
-At the same time, it is important to recognize that attackers may also use metadata for reconnaissance and information gathering. Because of this, organizations should minimize unnecessary traces and exposed information whenever possible.
+Understanding how to examine metadata helps analysts build timelines, verify activity, and gather additional context during investigations.
