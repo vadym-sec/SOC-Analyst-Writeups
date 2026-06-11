@@ -146,7 +146,7 @@ These workbooks act as the codified intelligence of senior defenders, providing 
 
 To visualize how a workbook structures an investigation, consider this production-grade flowchart for triaging an **Atypical/Unusual Login Location** alert. 
 
-![Unusual Login Location Investigation Workbook Workflow]([SOC_Workbook.png](https://github.com/vadym-sec/SOC-Analyst-Writeups/blob/main/screenshots/SOC_Workbook.png))
+![Unusual Login Location Investigation Workbook Workflow]([SOC_Workbook.png](https://github.com/vadym-sec/SOC-Analyst-Writeups/blob/main/screenshots/SOC_Workbook.png)
 
 This logical framework splits the analyst's investigation into three core operational phases, preventing any cognitive gaps or premature conclusions:
 
